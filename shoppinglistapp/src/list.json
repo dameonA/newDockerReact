@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "item": "milk",
+        "qty": 2,
+        "units": "gallons"
+    },
+    {
+        "id": 2,
+        "item": "eggs",
+        "qty": 1,
+        "units": "dozens"
+    },
+    {
+        "id": 3,
+        "item": "butter",
+        "qty": 12,
+        "units": "sticks"
+    },
+    {
+        "id": 4,
+        "item": "flour",
+        "qty": 1,
+        "units": "pound"
+    },
+    {
+        "id": 5,
+        "item": "sour cream",
+        "qty": 1,
+        "units": "dollop"
+    },
+    {
+        "id": 6,
+        "item": "apples",
+        "qty": 2,
+        "units": "bushels"
+    },
+    {
+        "id": 7,
+        "item": "sugar",
+        "qty": 2,
+        "units": "pounds"
+    },
+    {
+        "id": 8,
+        "item": "oj",
+        "qty": 3,
+        "units": "gallons"
+    }
+]
